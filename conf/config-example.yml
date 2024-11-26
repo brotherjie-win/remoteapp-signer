@@ -1,0 +1,6 @@
+output:
+  folder: Path:\To\Your\Signed\RDP\File\Output\Folder
+sign:
+  certificate: Path:\To\Your\SSL\Certificate\File\
+  key: Path:\To\Your\SSL\Private\Key\File\
+  password: ''
