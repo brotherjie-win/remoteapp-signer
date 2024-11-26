@@ -1,4 +1,4 @@
-file: []
-folder:
-- Path:\To\Your\Unsigned\RDP\File\Folder1
-- Path:\To\Your\Unsigned\RDP\File\Folder2
+file:
+- Path:\To\Your\Unsigned\RDP\File1.rdp
+- Path:\To\Your\Unsigned\RDP\File2.rdp
+folder: []
