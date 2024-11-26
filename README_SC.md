@@ -4,11 +4,11 @@
 ## 功能
 对RemoteAppTool生成的RDP文件进行签名，连接时显示发布者名称，避免未知发布者的提示。
 ### ✅ 已签名：
-
+![已签名](https://raw.githubusercontent.com/brotherjie-win/remoteapp-signer/refs/heads/image/img/rdp_signed.png)
 ### ❌ 未签名:
-
-### ❓签名被篡改：
-
+![未签名](https://raw.githubusercontent.com/brotherjie-win/remoteapp-signer/refs/heads/image/img/rdp_unsigned.png)
+### ❓签名篡改：
+![签名篡改](https://raw.githubusercontent.com/brotherjie-win/remoteapp-signer/refs/heads/image/img/rdp_tampered.png)
 ## 使用方法
 ### ⚠ 警告: （1）RemoteApp签名工具目前只能用于为RemoteApp程序的RDP文件签名，普通的远程桌面连接的RDP文件签名后会无法正常打开。
 ### （2）该工具只能使RDP文件打开时不显示安全警告，如果要实现连接时也不显示安全警告，需要按照3. 远程连接安全性中的方法导入证书，修改RDP文件后重新签名。
