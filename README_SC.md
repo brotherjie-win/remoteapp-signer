@@ -1,6 +1,6 @@
 # RemoteApp签名工具 (Python)
 ## 说明文档
-[English](https://github.com/brotherjie-win/steam-icon-fix/blob/main/README.md) | 简体中文 | [繁體中文](https://github.com/brotherjie-win/steam-icon-fix/blob/main/README_TC.md)
+[English](https://github.com/brotherjie-win/remoteapp-signer/blob/main/README.md) | 简体中文 | [繁體中文](https://github.com/brotherjie-win/remoteapp-signer/blob/main/README_TC.md)
 ## 功能
 对RemoteAppTool生成的RDP文件进行签名，连接时显示发布者名称，避免未知发布者的提示。
 ### ✅ 已签名：
